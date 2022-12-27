@@ -1,0 +1,17 @@
+O pensamento computacional pode ser defenido com a habilidade de resolver problemas e desafios de forma eficiente, assim como o computador faria.Explorando a forma criativa e estratégica dos domínios computacionais.
+
+o Pesamento computacional é dividido em 4 pilares:
+
+1° Decomposição: dividir o problema e partes menores,para facilitar a sua compreensão;
+ 
+2° Abstração: Definir e reconhecer o que é mais importante na situação-problema, para deixar de lado o que não for essencial; 
+
+3° Reconhecimento de padrão: o que se assmelha no problema, quais suas repetições e o que pode ser ultilizado na resolução;
+
+4° Algoritmo 
+
+o que é Algoritmo?
+
+Algoritmo são conjuntos de ações bem definidas e ordenadas que executam determinada tarefa. 
+
+
